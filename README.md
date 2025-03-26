@@ -11,6 +11,6 @@ I'm currently working on:
   A small library that makes programming certain aspects minecraft mods a bit more convenient.<br>
   _(releases alongside Server Particles)_
   
-- **Project S** **[MOD]** 🟨<br> 
+- **Project S** **[GAME]** 🟨<br> 
   What's this?
 
