@@ -1,7 +1,7 @@
 ## Hiya! 👋
-I'm TheNetherPug, a self-taught programmer and indie game dev with a love for Godot, Java and Minecraft modding!
+I'm TheNetherPug, a self-taught programmer, 3D artist and indie game dev with a love for Godot, Java and Minecraft modding!
 
-### Current Projects
+### My Current Projects
 I'm currently working on:
 - **Server Particles** **[MOD]**<br>
   A minecraft mod that lets you create server-side particle effects with accurate collision using text display entities!<br>
@@ -13,3 +13,7 @@ I'm currently working on:
   
 - **Project S** **[GAME]**<br> 
   What's this?
+
+### What I'm a part of
+I own and am the lead developer of [Hot Cocoa Studios](https://hotcocoastudios.itch.io/), a game making studio.
+I'm also a part of the [Index Purger](https://store.steampowered.com/app/2742480/Index_Purger/) development team as an animator and lightmapper.
