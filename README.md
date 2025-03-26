@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hiya! 👋
+I'm TheNetherPug, a self-taught programmer and indie game dev with a love for Godot, Java and Minecraft modding!
 
-<!--
-**TheNetherPug/thenetherpug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Current Projects
+I'm currently working on:
+- **Server Particles** **[MOD]🟩**<br>
+  A minecraft mod that lets you create server-side particle effects with accurate collision using text display entities!<br>
+  _COMING VERY SOON_
+  
+- **EasyLib** **[MOD**]🟩<br>
+  A small library that makes programming certain aspects minecraft mods a bit more convenient.<br>
+  _(releases alongside Server Particles)_
+  
+- **Project S** **[MOD]** 🟨<br> 
+  What's this?
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
