@@ -15,5 +15,5 @@ I'm currently working on:
   What's this?
 
 ### What I'm a part of
-I own and am the lead developer of [Hot Cocoa Studios](https://hotcocoastudios.itch.io/), a game making studio.
+I own and am the lead developer of [Hot Cocoa Studios](https://hotcocoastudios.itch.io/), a game making studio.<br><br>
 I'm also a part of the [Index Purger](https://store.steampowered.com/app/2742480/Index_Purger/) development team as an animator and lightmapper.
